@@ -123,6 +123,8 @@ html, body {
     font-size: 15px;
 
     color: #0F29AC;
+	    text-shadow: 1px 1px 2px black;
+
 
 }
 
@@ -173,6 +175,8 @@ h2 {
   text-transform: lowercase;
 
   color: #4D2D52;
+	    text-shadow: 1px 1px 2px black;
+
 
 }
 
@@ -193,6 +197,7 @@ li {
   color: #4D2D52;
 
   font-size: 18px;
+    text-shadow: 1px 1px 2px black;
 
 }
 
@@ -323,6 +328,7 @@ border: 0;
     font-size: 15px;
 
     color: #4D2D52;
+    text-shadow: 1px 1px 2px black;
 
 
     }
