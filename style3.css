@@ -110,8 +110,8 @@ html, body {
 
     line-height: 1.4;
 
-    color: white;
-    text-shadow: 1px 1px 2px black;
+    color: black;
+    text-shadow: 1px 1px 2px white;
 }
 
 .landing .info p {
@@ -122,8 +122,8 @@ html, body {
 
     font-size: 15px;
 
-    color: white;
-	    text-shadow: 1px 1px 2px black;
+    color: black;
+	    text-shadow: 1px 1px 2px white;
 
 
 }
@@ -174,8 +174,8 @@ h2 {
 
   text-transform: lowercase;
 
-  color: white;
-	    text-shadow: 1px 1px 2px black;
+  color: black;
+	    text-shadow: 1px 1px 2px white;
 
 
 }
@@ -194,10 +194,10 @@ li {
 
   text-transform: lowercase;
 
-  color: white;
+  color: black;
 
   font-size: 18px;
-    text-shadow: 1px 1px 2px black;
+    text-shadow: 1px 1px 2px white;
 
 }
 
@@ -327,8 +327,8 @@ border: 0;
 
     font-size: 15px;
 
-    color: white;
-    text-shadow: 1px 1px 2px black;
+    color: black;
+    text-shadow: 1px 1px 2px white;
 
 
     }
