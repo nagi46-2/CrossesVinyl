@@ -61,7 +61,10 @@ background-size: cover;
     width: 100%;
 
     text-align: right;
-
+    
+	color: black;
+	    text-shadow: 1px 1px 2px white;
+	
 }
 
 
@@ -88,7 +91,7 @@ background-size: cover;
 
     padding: 10px 18px;
 
-    color: #FFF;
+    color: black;
 
     background-color: #6c63ff;
 
