@@ -14,7 +14,8 @@ html, body {
 
   background: url(https://raw.githubusercontent.com/nagi46-2/NagiRepo/refs/heads/main/shanghai-skyline-667910610-5b0af1e81d640400370dbbc5.jpg);
 
-  background-size: cover;
+filter: blur(5px);  
+background-size: cover;
 
 }
 
