@@ -74,7 +74,10 @@ background-size: cover;
 
     cursor: pointer;
     
-	color: black;
+	 font-size: 15px;
+
+    color: black;
+	    text-shadow: 1px 1px 2px white;
 }
 
 .landing .header .links li:last-child {
