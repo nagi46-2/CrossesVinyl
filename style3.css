@@ -63,7 +63,7 @@ background-size: cover;
     text-align: right;
     
 	color: black;
-	    text-shadow: 1px 1px 2px white;
+	    
 	
 }
 
@@ -80,7 +80,6 @@ background-size: cover;
 	 font-size: 15px;
 
     color: black;
-	    text-shadow: 1px 1px 2px white;
 }
 
 .landing .header .links li:last-child {
@@ -118,7 +117,6 @@ background-size: cover;
     line-height: 1.4;
 
     color: black;
-    text-shadow: 1px 1px 2px white;
 }
 
 .landing .info p {
@@ -130,7 +128,6 @@ background-size: cover;
     font-size: 15px;
 
     color: black;
-	    text-shadow: 1px 1px 2px white;
 
 
 }
@@ -182,7 +179,6 @@ h2 {
   text-transform: lowercase;
 
   color: black;
-	    text-shadow: 1px 1px 2px white;
 
 
 }
@@ -204,7 +200,6 @@ li {
   color: black;
 
   font-size: 18px;
-    text-shadow: 1px 1px 2px white;
 
 }
 
@@ -335,7 +330,6 @@ border: 0;
     font-size: 15px;
 
     color: black;
-    text-shadow: 1px 1px 2px white;
 
 
     }
